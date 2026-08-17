@@ -2,13 +2,13 @@
 An Earth Monitoring Platform for analyzing the gain or loss of natural vegetation and comparing urban expansion over time.
 
 ## Team Member Details:
-┌─────────────────────────────────────────────────────────────────────────────────────────┐
-| S.No. | Developer Name  |                  Role                  |       GitHub ID      |
-├───────┼─────────────────┼────────────────────────────────────────┼──────────────────────┤
-|   1   | Aadarsh Goswami | Machine Learning Engineer + Researcher | aadarshgoswami11-oss |
-|   2   | Deepak Kumar    | UI/UX Designer + Frontend Developer    | dk26012005-gif       |
-|   3   | Devansh Ojha    | Frontend + Backend Developer           | Devansh-Ojha-x       |
-└─────────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+| S.No. | Developer Name  |                  Role                  |
+├───────┼─────────────────┼────────────────────────────────────────┤
+|   1   | Aadarsh Goswami | Machine Learning Engineer + Researcher |
+|   2   | Deepak Kumar    | UI/UX Designer + Frontend Developer    |
+|   3   | Devansh Ojha    | Frontend + Backend Developer           |
+└──────────────────────────────────────────────────────────────────┘
 
 ## Clone the repository
 git clone https://github.com/aadarshgoswami11-oss/GEOWATCH.git
@@ -31,21 +31,7 @@ git clone https://github.com/aadarshgoswami11-oss/GEOWATCH.git
 
 ## Project Structure:
 GeoWatch
-│
-├── _Documents/
-|   │
-|   └── 
-|
-├── Backend/
-|   │
-|   └── 
-|
-├── Frontend/
-|   │
-|   └── 
-|
-├── README.md
-└── .gitignore
+
 
 ## Screenshots:
 
